@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python and JavaScript.
 - 🤓 Hackathon events enthusiast 
 -   Funfact: If I can choose any superpower, it would be the ability to speak any language.
-    Normal languages and programming languages.This would allow me insights into different cultures and technologies. 👀🧩
+    Normal languages and programming languages. This would allow me to gain insights into different cultures and technologies. 🧩
 -   You are welcome to contact me via LinkedIn.
 
 <!---
